@@ -1,0 +1,3 @@
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/greetUser/cmake-build-debug/CMakeFiles/greetUser.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/greetUser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/greetUser/cmake-build-debug/CMakeFiles/rebuild_cache.dir

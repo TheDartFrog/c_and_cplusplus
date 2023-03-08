@@ -11,7 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="firsttry" targetName="firsttry" />
+      <config projectName="greetUser" targetName="greetUser" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2d872c8-44fa-4d45-8943-863f87905eea" name="Changes" comment="" />
+    <list default="true" id="d7c6499b-1c7a-4bce-886e-b8d04ca577bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +41,7 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="3.2" />
   </component>
-  <component name="ProjectId" id="2MjZFaOC1scB3hODC9sLzLwwgRY" />
+  <component name="ProjectId" id="2Mjf5rqGjWmQOvDiNDkCKmkAOCK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,7 +58,6 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "CPPToolchains",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,7 +67,7 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firsttry" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="firsttry" TARGET_NAME="firsttry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="firsttry" RUN_TARGET_NAME="firsttry">
+    <configuration name="greetUser" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="greetUser" TARGET_NAME="greetUser" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="greetUser" RUN_TARGET_NAME="greetUser">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -77,12 +76,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2d872c8-44fa-4d45-8943-863f87905eea" name="Changes" comment="" />
-      <created>1678282849765</created>
+      <changelist id="d7c6499b-1c7a-4bce-886e-b8d04ca577bb" name="Changes" comment="" />
+      <created>1678285731703</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678282849765</updated>
-      <workItem from="1678282853372" duration="2849000" />
+      <updated>1678285731703</updated>
+      <workItem from="1678285733135" duration="778000" />
     </task>
     <servers />
   </component>
