@@ -1,0 +1,21 @@
+# ninja log v5
+1	120	7017947273547945	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	d21d887d3b70f7cf
+1	120	7017947273547945	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	d21d887d3b70f7cf
+121	92476	7017948197089232	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	d7374fb61a0c9613
+121	92476	7017948197089232	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	d7374fb61a0c9613
+92477	92758	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	bcd888838537428d
+92477	92758	0	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	bcd888838537428d
+92759	92854	7017948200884488	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	e20c356ca2ebc59b
+92759	92854	7017948200884488	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	e20c356ca2ebc59b
+92854	92946	7017948201800249	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	ff2eea5d48484ecb
+92854	92946	7017948201800249	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	ff2eea5d48484ecb
+92946	93040	7017948202743743	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f5e845b64193bf79
+92946	93040	7017948202743743	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f5e845b64193bf79
+93041	93138	7017948203719469	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	f8045809928a6533
+93041	93138	7017948203719469	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	f8045809928a6533
+93138	93233	7017948204658626	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	87b2d65fb8e43fcf
+93138	93233	7017948204658626	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	87b2d65fb8e43fcf
+93233	93366	7017948205994429	CMakeFiles/fmt-populate-complete	f0e9ee170ced3a7a
+93233	93366	7017948205994429	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	f0e9ee170ced3a7a
+93233	93366	7017948205994429	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	f0e9ee170ced3a7a
+93233	93366	7017948205994429	C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/shorttest2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	f0e9ee170ced3a7a

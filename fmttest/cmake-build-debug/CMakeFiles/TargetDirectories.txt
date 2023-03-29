@@ -1,0 +1,6 @@
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/fmttest/cmake-build-debug/CMakeFiles/fmttest.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/fmttest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/fmttest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/fmttest/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/fmttest/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/fmttest/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir

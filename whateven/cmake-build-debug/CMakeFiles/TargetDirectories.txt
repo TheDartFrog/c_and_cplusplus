@@ -1,0 +1,3 @@
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/whateven/cmake-build-debug/CMakeFiles/whateven.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/whateven/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DartFrogLenovo/Desktop/studiaa/c_and_cplusplus/whateven/cmake-build-debug/CMakeFiles/rebuild_cache.dir

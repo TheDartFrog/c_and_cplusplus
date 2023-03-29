@@ -1,0 +1,6 @@
+# ninja log v5
+1	3105	7017948883877437	CMakeFiles/shorttest2.dir/main.cpp.obj	fee65f6c2b621725
+5	16414	7017949016862074	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	9899cbc2e3364834
+8	19381	7017949046470209	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	54558e70a42f6304
+19385	22555	7017949078363097	_deps/fmt-build/libfmtd.a	b47eef78cd7fcd2d
+22555	24171	7017949094426544	shorttest2.exe	a751221db2e9cdbb
