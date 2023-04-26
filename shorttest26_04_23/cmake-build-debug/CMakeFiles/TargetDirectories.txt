@@ -1,0 +1,6 @@
+C:/Users/s28538/Desktop/shorttest/cmake-build-debug/CMakeFiles/shorttest.dir
+C:/Users/s28538/Desktop/shorttest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s28538/Desktop/shorttest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir

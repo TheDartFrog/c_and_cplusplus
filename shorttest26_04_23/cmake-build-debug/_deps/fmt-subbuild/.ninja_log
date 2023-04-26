@@ -1,0 +1,21 @@
+# ninja log v5
+0	145	7042138449343896	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	9540f039698ca4c1
+0	145	7042138449343896	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	9540f039698ca4c1
+145	14279	7042138590712842	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	ee40777cb5161dbc
+145	14279	7042138590712842	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	ee40777cb5161dbc
+14280	14393	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	640ac2e7fab1755f
+14280	14393	0	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	640ac2e7fab1755f
+14393	14432	7042138592242570	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	8dda177f109b2ec1
+14393	14432	7042138592242570	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	8dda177f109b2ec1
+14432	14471	7042138592636176	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a860db33e177c9e0
+14432	14471	7042138592636176	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a860db33e177c9e0
+14472	14511	7042138593037066	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	2542be9a739a2be
+14472	14511	7042138593037066	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	2542be9a739a2be
+14512	14551	7042138593435565	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	5e150ef21cf89157
+14512	14551	7042138593435565	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	5e150ef21cf89157
+14551	14593	7042138593846096	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	86a85c745eb261b1
+14551	14593	7042138593846096	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	86a85c745eb261b1
+14593	14652	7042138594444465	CMakeFiles/fmt-populate-complete	f711f86ac5aeeebd
+14593	14652	7042138594444465	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	f711f86ac5aeeebd
+14593	14652	7042138594444465	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	f711f86ac5aeeebd
+14593	14652	7042138594444465	C:/Users/s28538/Desktop/shorttest/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	f711f86ac5aeeebd
